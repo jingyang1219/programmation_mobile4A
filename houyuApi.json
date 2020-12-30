@@ -1,0 +1,559 @@
+{
+  "messages": [
+    {
+      "breed": "Affenpinscher",
+      "origin": "Germany",
+      "imgurl": "https://images.dog.ceo/breeds/affenpinscher/n02110627_12808.jpg",
+      "detailInfo": "The Affenpinscher, also known as the Monkey Terrier, is a terrier-like toy Pinscher breed of dog."
+    },
+    {
+      "breed": "Africanis",
+      "origin": "Southern Africa",
+      "imgurl": "https://images.dog.ceo/breeds/african/n02116738_4115.jpg",
+      "detailInfo": "The Africanis is a landrace of dog endemic to Sub-Equatorial Africa"
+    },
+    {
+      "breed": "Airedale",
+      "origin": "United Kingdom",
+      "imgurl": "https://images.dog.ceo/breeds/airedale/n02096051_950.jpg",
+      "detailInfo": "The Airedale Terrier is a dog breed of the terrier type that originated in the valley (dale) of the River Aire, England."
+
+    },
+    {
+      "breed": "Akita",
+      "origin": "Japan",
+      "imgurl": "https://images.dog.ceo/breeds/akita/Akina_Inu_in_Riga_1.jpg",
+      "detailInfo": "The Akita is a large breed of dog originating from the mountainous regions of northern Japan."
+    },
+    {
+      "breed": "Appenzeller",
+      "origin": "Switzerland",
+      "imgurl": "https://images.dog.ceo/breeds/appenzeller/n02107908_6093.jpg",
+      "detailInfo": "The Appenzeller Sennenhund is a medium-size breed of dog from the Swiss Alps."
+    },
+    {
+      "breed": "Australian Shepherd",
+      "origin": "USA",
+      "imgurl":"https://images.dog.ceo/breeds/australian-shepherd/leroy.jpg",
+      "detailInfo":"The Australian Shepherd is a medium-sized breed of dog that was developed in the United States, and identified as a breed in the early 20th century."
+    },
+    {
+      "breed": "Basenji",
+      "origin": "Democratic Republic of the Congo",
+      "imgurl":"https://images.dog.ceo/breeds/basenji/n02110806_6080.jpg",
+      "detailInfo":"The Basenji is a breed of hunting dog. It was bred from stock that originated in central Africa."
+    },
+    {
+      "breed": "Beagle",
+      "origin": "United Kingdom",
+      "imgurl":"https://images.dog.ceo/breeds/beagle/n02088364_2840.jpg",
+      "detailInfo": "The beagle is a breed of small hound that is similar in appearance to the much larger foxhound."
+    },
+    {
+      "breed": "Bluetick Coonhound",
+      "origin": "USA",
+      "imgurl":"https://images.dog.ceo/breeds/bluetick/n02088632_4002.jpg",
+      "detailInfo":"The Bluetick Coonhound is known for its friendly persona, cold nose, and deep bawl mouth. It is most commonly used as a raccoon hunting dog, but may also be kept as a pet."
+    },
+    {
+      "breed": "Borzoi",
+      "origin": "Russia",
+      "imgurl":"https://images.dog.ceo/breeds/borzoi/n02090622_9374.jpg",
+      "detailInfo":"The Borzoi is a sighthound hunting breed of domestic dog. They are descended from the working dogs of people who migrated from Central Asian countries to Russia prior to the 17th century."
+    },
+    {
+      "breed": "Bouvier des Flandres",
+      "origin": "Belgium",
+      "imgurl":"https://images.dog.ceo/breeds/bouvier/n02106382_1365.jpg",
+      "detailInfo":"The Bouvier des Flandres is a herding dog breed originating in Flanders, Belgium. They were originally used for general farm work including cattle droving, sheep herding, and cart pulling, and nowadays as guard dogs and police dogs, as well as being kept as pets."
+    },
+    {
+      "breed": "Boxer",
+      "origin": "Germany",
+      "imgurl":"https://images.dog.ceo/breeds/boxer/n02108089_1003.jpg",
+      "detailInfo": "The Boxer is a medium to large, short-haired breed of dog, developed in Germany. The coat is smooth and tight-fitting; colors are fawn, brindled, or white, with or without white markings. Boxers are brachycephalic (they have broad, short skulls), have a square muzzle, mandibular prognathism (an underbite), very strong jaws, and a powerful bite ideal for hanging on to large prey."
+    },
+    {
+      "breed": "Brabançon",
+      "origin": "Belgium",
+      "imgurl":"https://images.dog.ceo/breeds/brabancon/n02112706_1554.jpg",
+      "detailInfo":"Le Petit Brabançon is a breed of dogs originating in Belgium. The breed is the result of crosses made in the 19th century between the smousje, a small Brussels short-haired dog chasing rats in the stables, and the King Charles spaniel and the pug."
+    },
+    {
+      "breed": "Briard",
+      "origin": "France",
+      "imgurl":"https://images.dog.ceo/breeds/briard/n02105251_2439.jpg",
+      "detailInfo":"The Briard is an ancient breed of large herding dog, originally from France. A Briard-like dog appears in the illustrations in illuminated copies of Gaston Febus' Livre de chasse (\"Book of the Hunt\"), written in the late 14th century."
+    },
+    {
+      "breed": "Norwegian Buhund",
+      "origin": "Norway",
+      "imgurl":"https://images.dog.ceo/breeds/terrier-norwich/n02094258_112.jpg",
+      "detailInfo":"The Norwegian Buhund is a breed of dog of the spitz type. It is closely related to the Icelandic Sheepdog and the Jämthund. The Buhund is used as an all purpose farm and herding dog, as well as watch dog and a nanny dog."
+    },
+    {
+      "breed": "French Bulldog",
+      "origin": "United Kingdom",
+      "imgurl":"https://images.dog.ceo/breeds/bulldog-english/bunz.jpg",
+      "detailInfo":"The French Bulldog is a breed of domestic dog, bred to be companion dogs. The breed is the result of a cross between Toy Bulldogs imported from England and local ratters in Paris, France, in the 1800s. They are stocky, compact dogs with a friendly, mild-mannered temperament."
+    },
+    {
+      "breed": "English Bulldog",
+      "origin": "United Kingdom",
+      "imgurl":"https://images.dog.ceo/breeds/bulldog-english/bunz.jpg",
+      "detailInfo": "The English Bulldog is a medium-sized dog breed. It is a muscular, hefty dog with a wrinkled face and a distinctive pushed-in nose."
+    },
+
+    {
+      "breed": "Bull Terrier",
+      "origin": "United Kingdom",
+      "imgurl":"https://images.dog.ceo/breeds/bullterrier-staffordshire/n02093256_1272.jpg",
+      "detailInfo":"The Bull Terrier is a breed of dog in the terrier family."
+    },
+    {
+      "breed": "Cairn",
+      "origin": "United Kingdom",
+      "imgurl":"https://images.dog.ceo/breeds/cairn/n02096177_218.jpg",
+      "detailInfo":"The Cairn Terrier is one of the oldest terrier breeds, originating in the Scottish Highlands and recognized as one of Scotland's earliest working dogs."
+    },
+    {
+      "breed": "Cattle Dog",
+      "origin": "Australia",
+      "imgurl":"https://images.dog.ceo/breeds/cattledog-australian/IMG_5481.jpg",
+      "detailInfo":"The Cattle Dog is a breed of herding dog originally developed in Australia for droving cattle over long distances across rough terrain."
+    },
+    {
+      "breed":  "Chihuahua",
+      "origin": "Mexico",
+      "imgurl":"https://images.dog.ceo/breeds/chihuahua/n02085620_5771.jpg",
+      "detailInfo":"The Chihuahua is the smallest breed of dog, and is named after the Mexican state of Chihuahua."
+    },
+    {
+      "breed": "Chow",
+      "origin": "China",
+      "imgurl":"https://images.dog.ceo/breeds/chow/n02112137_7645.jpg",
+      "detailInfo":"The Chow Chow is a dog breed originally from northern China."
+    },
+    {
+      "breed": "Clumber",
+      "origin": "United Kingdom",
+      "imgurl":"https://images.dog.ceo/breeds/bulldog-english/jager-1.jpg",
+      "detailInfo":"The Clumber Spaniel is a breed of dog of the spaniel type, developed in the United Kingdom."
+    },
+    {
+      "breed": "Cockapoo",
+      "origin": "USA",
+      "imgurl":"https://images.dog.ceo/breeds/cockapoo/bubbles2.jpg",
+      "detailInfo":"A Cockapoo is a dog crossbreed bred from a Cocker Spaniel and a Poodle, most commonly the Miniature Poodle."
+    },
+    {
+      "breed": "Collie",
+      "origin": "United Kingdom",
+      "imgurl":"https://images.dog.ceo/breeds/collie-border/n02106166_1133.jpg",
+      "detailInfo":"Collies form a distinctive type of herding dogs, including many related landraces and standardized breeds."
+    },
+    {
+      "breed": "Coonhound",
+      "origin": "USA",
+      "imgurl":"https://images.dog.ceo/breeds/coonhound/n02089078_2957.jpg",
+      "detailInfo":"The coonhound, colloquially the coon dog, is a type of scenthound, a member of the hound group."
+    },
+    {
+      "breed": "Cardigan Corgi",
+      "origin": "United Kingdom",
+      "imgurl":"https://images.dog.ceo/breeds/corgi-cardigan/n02113186_9063.jpg",
+      "detailInfo":"The Cardigan Welsh Corgi is one of two separate dog breeds known as Welsh Corgis that originated in Wales; the other is the Pembroke Welsh Corgi. "
+    },
+    {
+      "breed": "Coton de Tulear",
+      "origin": "Madagascar",
+      "imgurl":"https://images.dog.ceo/breeds/cotondetulear/100_2397.jpg",
+      "detailInfo":"The Coton de Tuléar is a breed of small dog named for the city of Tuléar (also known as Toliara) in Madagascar."
+    },
+    {
+      "breed": "Dachshund",
+      "origin": "Germany",
+      "imgurl":"https://images.dog.ceo/breeds/dachshund/dachshund_4.jpg",
+      "detailInfo":"The dachshund is a short-legged, long-bodied, hound-type dog breed. They may be smooth, wire, or long-haired."
+    },
+    {
+      "breed": "Dalmatian",
+      "origin": "Croatia",
+      "imgurl":"https://images.dog.ceo/breeds/dalmatian/cooper2.jpg",
+      "detailInfo":"The Dalmatian is a breed of Large -sized dog, noted for its unique white coat marked with black or liver-colored spots and used mainly as a carriage dog in its early days."
+    },
+    {
+      "breed": "Dane",
+      "origin": "Germany",
+      "imgurl":"https://images.dog.ceo/breeds/dane-great/n02109047_941.jpg",
+      "detailInfo":"The Great Dane descends from hunting dogs known from the Middle Ages and is one of the largest breeds in the world."
+    },
+    {
+      "breed": "Deerhound",
+      "origin": "United Kingdom",
+      "imgurl":"https://images.dog.ceo/breeds/deerhound-scottish/n02092002_9656.jpg",
+      "detailInfo":"The Scottish Deerhound, or simply the Deerhound, is a large breed of hound (a sighthound)."
+    },
+    {
+      "breed": "Dhole",
+      "origin": "East Asia",
+      "imgurl":"https://images.dog.ceo/breeds/dhole/n02115913_3178.jpg",
+      "detailInfo":"The dhole is a highly social animal, living in large clans without rigid dominance hierarchies and containing multiple breeding females."
+    },
+    {
+      "breed": "Dingo",
+      "origin": "Australia",
+      "imgurl":"https://images.dog.ceo/breeds/dingo/n02115641_7181.jpg",
+      "detailInfo":"The dingo is a dog found in Australia."
+    },
+    {
+      "breed": "Dobermann",
+      "origin": "Germany",
+      "imgurl":"https://images.dog.ceo/breeds/doberman/n02107142_3621.jpg",
+      "detailInfo":"The Dobermann, in the United States and Canada, is a medium-large breed of domestic dog that was originally developed around 1890 by Karl Friedrich Louis Dobermann, a tax collector from Germany."
+    },
+    {
+      "breed": "Elkhound",
+      "origin": "Norway",
+      "imgurl":"https://images.dog.ceo/breeds/elkhound-norwegian/n02091467_4558.jpg",
+      "detailInfo":"The Norwegian Elkhound is one of the Northern Spitz-type breed of dog and is the National Dog of Norway."
+    },
+    {
+      "breed": "Entlebucher",
+      "origin": "Switzerland",
+      "imgurl":"https://images.dog.ceo/breeds/entlebucher/n02108000_2394.jpg",
+      "detailInfo":"The Entlebucher Sennenhund is a medium-sized herding dog, it is the smallest of the four regional breeds that constitute the Sennenhund dog type."
+    },
+    {
+      "breed": "Eskimo",
+      "origin": "Germany",
+      "imgurl":"https://images.dog.ceo/breeds/eskimo/n02109961_16095.jpg",
+      "detailInfo":"The American Eskimo Dog is a breed of companion dog, originating in Germany. The American Eskimo Dog is a member of the Spitz family."
+    },
+    {
+      "breed": "Finnish",
+      "origin": "Finland",
+      "imgurl":"https://images.dog.ceo/breeds/finnish-lapphund/mochilamvan.jpg",
+      "detailInfo":"The Finnish Lapphund (or Finnish Lapponian Dog) is a hardy, easy going, medium-size breed of Spitz type."
+    },
+    {
+      "breed": "Frise",
+      "origin": "France",
+      "imgurl":"https://images.dog.ceo/breeds/frise-bichon/stevebaxter_bichon_frise.jpg",
+      "detailInfo":"A Bichon Frise is a small breed of dog of the bichon type."
+    },
+    {
+      "breed": "German Shepherd",
+      "origin": "Germany",
+      "imgurl":"https://images.dog.ceo/breeds/germanshepherd/n02106662_19801.jpg",
+      "detailInfo":"The German Shepherd is a breed of medium to large-sized working dog that originated in Germany. According to the FCI, the breed's English language name is German Shepherd Dog."
+    },
+    {
+      "breed": "Greyhound",
+      "origin": "Europe",
+      "imgurl":"https://images.dog.ceo/breeds/greyhound-italian/n02091032_652.jpg",
+      "detailInfo":"The Greyhound is a breed of dog, a sighthound which has been bred for coursing game and greyhound racing. It is also referred to as an English Greyhound."
+    },
+    {
+      "breed": "Groenendael",
+      "origin": "Belgium",
+      "imgurl":"https://images.dog.ceo/breeds/groenendael/n02105056_7112.jpg",
+      "detailInfo":"The Belgian Groenendael is a breed of medium-sized herding dog from Belgium."
+    },
+    {
+      "breed": "Havanese",
+      "origin": "Cuba",
+      "imgurl":"https://images.dog.ceo/breeds/havanese/00100trPORTRAIT_00100_BURST20191103202017556_COVER.jpg",
+      "detailInfo":"Havanese (a bichon type dog) is the national dog of Cuba, developed from the now extinct Blanquito de la Habana ."
+    },
+    {
+      "breed": "Husky",
+      "origin": "Russia",
+      "imgurl":"https://images.dog.ceo/breeds/husky/n02110185_10875.jpg",
+      "detailInfo":"The Siberian Husky is a medium-sized working dog breed. The breed belongs to the Spitz genetic family."
+    },
+    {
+      "breed": "Keeshond",
+      "origin": "Netherlands, Germany",
+      "imgurl":"https://images.dog.ceo/breeds/keeshond/n02112350_7573.jpg",
+      "detailInfo":"The Keeshond is a medium-sized dog with a plush, two-layer coat of silver and black fur with a ruff and a curled tail."
+    },
+    {
+      "breed": "Kelpie",
+      "origin": "Australia",
+      "imgurl":"https://images.dog.ceo/breeds/kelpie/n02105412_3218.jpg",
+      "detailInfo":"The Australian Kelpie, or simply Kelpie, is an Australian sheep dog successful at mustering and droving with little or no guidance."
+    },
+    {
+      "breed": "Komondor",
+      "origin": "Hungary",
+      "imgurl":"https://images.dog.ceo/breeds/komondor/n02105505_4021.jpg",
+      "detailInfo":"The Komondor, also known as the Hungarian sheepdog, is a large, white-coloured Hungarian breed of livestock guardian dog with a long, corded coat."
+    },
+    {
+      "breed": "Kuvasz",
+      "origin": "Hungary",
+      "imgurl":"https://images.dog.ceo/breeds/kuvasz/n02104029_4746.jpg",
+      "detailInfo":"The Kuvasz, is an ancient breed of livestock dog of Hungarian origin. Mention of the breed can be found in old Hungarian texts. "
+    },
+    {
+      "breed": "Labrador",
+      "origin": "Canada",
+      "imgurl":"https://images.dog.ceo/breeds/labrador/n02099712_4462.jpg",
+      "detailInfo":"The Labrador Retriever, often abbreviated to Labrador, is a breed of retriever-gun dog from the United Kingdom that was developed from imported Canadian fishing dogs."
+    },
+    {
+      "breed": "Leonberg",
+      "origin": "Germany",
+      "imgurl":"https://images.dog.ceo/breeds/leonberg/n02111129_1065.jpg",
+      "detailInfo":"The Leonberger is a dog breed, whose name derives from the city of Leonberg in Baden-Württemberg, Germany. "
+    },
+    {
+      "breed": "Lhasa",
+      "origin": "China",
+      "imgurl":"https://images.dog.ceo/breeds/lhasa/n02098413_9550.jpg",
+      "detailInfo":"The Lhasa Apso is a non-sporting dog breed originating in Tibet."
+    },
+    {
+      "breed": "Malamute",
+      "origin": "USA",
+      "imgurl":"https://images.dog.ceo/breeds/malamute/n02110063_12597.jpg",
+      "detailInfo":"The Alaskan Malamute is a large breed of domestic dog originally bred for their strength and endurance to haul heavy freight as a sled dog and hound."
+    },
+    {
+      "breed": "Malinois",
+      "origin": "Belgium",
+      "imgurl":"https://images.dog.ceo/breeds/malinois/n02105162_5913.jpg",
+      "detailInfo":"The Malinois is one of the four varieties of Belgian Shepherd Dog."
+    },
+    {
+      "breed": "Maltese",
+      "origin": "Malta",
+      "imgurl":"https://images.dog.ceo/breeds/maltese/n02085936_8449.jpg",
+      "detailInfo":"The Maltese is a breed of dog in the toy group. It is thought to have originated in south-central Europe from dogs of spitz type."
+    },
+    {
+      "breed": "Mastiff",
+      "origin": "United Kingdom",
+      "imgurl":"https://images.dog.ceo/breeds/mastiff-tibetan/n02108551_12438.jpg",
+      "detailInfo":"The English Mastiff is a breed of large dog. The breed is referred to simply as the Mastiff by national kennel clubs, including the United Kingdom's Kennel Club and the Fédération Cynologique Internationale. "
+    },
+    {
+      "breed": "Mexican Hairless",
+      "origin": "Mexico",
+      "imgurl":"https://images.dog.ceo/breeds/mexicanhairless/n02113978_838.jpg",
+      "detailInfo":"The Mexican hairless dog is one of several breeds of hairless dog. It is found in Standard, Miniature, and Toy sizes."
+    },
+    {
+      "breed": "Mountain",
+      "origin": "Switzerland",
+      "imgurl":"https://images.dog.ceo/breeds/mountain-swiss/n02107574_854.jpg",
+      "detailInfo":"The Bernese Mountain Dog is a large-sized breed of dog, one of the four breeds of Sennenhund-type dogs from the Swiss Alps."
+    },
+    {
+      "breed": "Newfoundland",
+      "origin": "Canada",
+      "imgurl":"https://images.dog.ceo/breeds/newfoundland/n02111277_13845.jpg",
+      "detailInfo":"The Newfoundland is a large working dog. They can be either black, brown, grey, or white-and-black. However, in the Dominion of Newfoundland"
+    },
+    {
+      "breed": "Otterhound",
+      "origin": "United Kingdom",
+      "imgurl":"https://images.dog.ceo/breeds/otterhound/n02091635_923.jpg",
+      "detailInfo":"The Otterhound is a British dog breed. It is a scent hound and is currently recognised by the Kennel Club as a Vulnerable Native Breed with around 600 animals worldwide."
+    },
+    {
+      "breed": "Ovcharka",
+      "origin": "Caucasus",
+      "imgurl":"https://images.dog.ceo/breeds/ovcharka-caucasian/IMG_20191130_155610.jpg",
+      "detailInfo":"The Caucasian Shepherd Dog is a Russian breed of large livestock guardian dog. It was developed in the Soviet Union from about 1920 from dogs of the Caucasus Mountains and the steppe regions of Southern Russia."
+    },
+    {
+      "breed": "Papillon",
+      "origin": "Belgium, France, Spain",
+      "imgurl":"https://images.dog.ceo/breeds/papillon/n02086910_7868.jpg",
+      "detailInfo":"The Papillon, also called the Continental Toy Spaniel, is a breed of dog, of the spaniel type."
+    },
+    {
+      "breed": "Pekinese",
+      "origin": "China",
+      "imgurl":"https://images.dog.ceo/breeds/pekinese/n02086079_5087.jpg",
+      "detailInfo":"The Pekingese is a breed of toy dog, originating in China. Another breed, the Shih Tzu, has its English name derive from the same source as this breed's Chinese name which translates to \"lion dog\"."
+    },
+    {
+      "breed": "Pembroke Welsh Corgi",
+      "origin": "United Kingdom",
+      "imgurl":"https://images.dog.ceo/breeds/pembroke/n02113023_10829.jpg",
+      "detailInfo":"The Pembroke Welsh Corgi is a cattle herding dog breed that originated in Pembrokeshire, Wales."
+    },
+    {
+      "breed": "Pinscher",
+      "origin": "Germany",
+      "imgurl":"https://images.dog.ceo/breeds/pinscher-miniature/n02107312_3456.jpg",
+      "detailInfo":"The German Pinscher is a medium-sized breed of dog, a Pinscher type that originated in Germany."
+    },
+    {
+      "breed": "Pitbull",
+      "origin": "United Kingdom, USA",
+      "imgurl":"https://images.dog.ceo/breeds/pitbull/20190710_143021.jpg",
+      "detailInfo":"The American Pit Bull Terrier is a medium-sized, intelligent, short-haired dog, of a solid build, whose early ancestors came from the British Isles. "
+    },
+    {
+      "breed": "Pointer",
+      "origin": "United Kingdom",
+      "imgurl":"https://images.dog.ceo/breeds/pointer-german/n02100236_295.jpg",
+      "detailInfo":"The Pointer, sometimes called the English Pointer, is a medium-sized breed of pointing dog developed in England."
+    },
+    {
+      "breed": "Pomeranian",
+      "origin": "Germany, Poland",
+      "imgurl":"https://images.dog.ceo/breeds/pomeranian/n02112018_7460.jpg",
+      "detailInfo":"The Pomeranian is a breed of dog of the Spitz type that is named for the Pomerania region in north-west Poland and north-east Germany in Central Europe. "
+    },
+    {
+      "breed": "Poodle",
+      "origin": "Germany, France",
+      "imgurl":"https://images.dog.ceo/breeds/poodle-standard/n02113799_4557.jpg",
+      "detailInfo":"The Poodle is a dog breed that comes in three varieties: Standard Poodle, Miniature Poodle, and Toy Poodle. The breed’s origin is disputed: whether it descends from Germany as a type of water dog, or from the French Barbet."
+    },
+    {
+      "breed": "Pug",
+      "origin": "China",
+      "imgurl":"https://images.dog.ceo/breeds/pug/n02110958_15014.jpg",
+      "detailInfo":"The pug is a breed of dog distinguished by a wrinkly, short-muzzled face and curled tail. The breed has a fine, glossy coat that comes in a variety of colours, most often light brown (fawn) or black, and a compact, square body with well-developed muscles."
+    },
+    {
+      "breed": "Puggle",
+      "origin": "Unknown",
+      "imgurl":"https://images.dog.ceo/breeds/puggle/IMG_153357.jpg",
+      "detailInfo":"A puggle is a dog crossbred from a pug and a beagle."
+    },
+    {
+      "breed": "Pyrenees",
+      "origin": "France, Spain",
+      "imgurl":"https://images.dog.ceo/breeds/pyrenees/n02111500_8042.jpg",
+      "detailInfo":"The Pyrenean Mountain Dog, known as the Great Pyrenees in North America, is a large breed of dog used as a livestock guardian dog. It should not be confused with the Pyrenean Mastiff."
+    },
+    {
+      "breed": "Redbone",
+      "origin": "USA",
+      "imgurl":"https://images.dog.ceo/breeds/redbone/n02090379_2410.jpg",
+      "detailInfo":"The Redbone Coonhound is an American breed of hunting dog. It may be used to hunt raccoon, deer, bear, boar, cougar, or other large game."
+    },
+    {
+      "breed": "Ridgeback",
+      "origin": "Southern Africa",
+      "imgurl":"https://images.dog.ceo/breeds/ridgeback-rhodesian/n02087394_1925.jpg",
+      "detailInfo":"The Rhodesian Ridgeback is a dog breed bred in the Southern Africa region. Its forebears can be traced to the ridged hunting dogs of the Khoikhoi, which were crossed with European dogs by the early colonists of the Cape Colony of southern Africa."
+    },
+    {
+      "breed": "Rottweiler",
+      "origin": "Germany",
+      "imgurl":"https://images.dog.ceo/breeds/rottweiler/n02106550_12642.jpg",
+      "detailInfo":"The Rottweiler is a breed of domestic dog, regarded as medium-to-large or large. The dogs were known in German as Rottweiler Metzgerhund, meaning Rottweil butchers' dogs, because their main use was to herd livestock and pull carts laden with butchered meat to market."
+    },
+    {
+      "breed": "Saluki",
+      "origin": "Fertile Crescent",
+      "imgurl":"https://images.dog.ceo/breeds/saluki/n02091831_2076.jpg",
+      "detailInfo":"The Saluki is a standardised breed developed from sighthounds – dogs that hunt primarily by sight rather than scent – that was once used by nomadic tribes to run down game animals."
+    },
+    {
+      "breed": "Samoyed",
+      "origin": "Russia",
+      "imgurl":"https://images.dog.ceo/breeds/samoyed/n02111889_3499.jpg",
+      "detailInfo":"The Samoyed is a breed of medium-sized herding dogs with thick, white, double-layer coats. They are related to the laika, a spitz-type dog."
+    },
+    {
+      "breed": "Schipperke",
+      "origin": "Belgium",
+      "imgurl":"https://images.dog.ceo/breeds/schipperke/n02104365_7953.jpg",
+      "detailInfo":"A Schipperke is a small Belgian breed of dog that originated in the early 16th century. "
+    },
+    {
+      "breed": "Schnauzer",
+      "origin": "Germany",
+      "imgurl":"https://images.dog.ceo/breeds/schnauzer-miniature/n02097047_509.jpg",
+      "detailInfo":"The Standard Schnauzer is a dog breed that originated in Germany in at least 14th–15th century, of Schnauzer breed type and progenitor of the Giant Schnauzer and Miniature Schnauzer."
+    },
+    {
+      "breed": "Setter",
+      "origin": "United Kingdom",
+      "imgurl":"https://images.dog.ceo/breeds/setter-gordon/n02101006_3379.jpg",
+      "detailInfo":"The setter is a type of gundog used most often for hunting game such as quail, pheasant, and grouse."
+    },
+    {
+      "breed": "Sheep Dog",
+      "origin": "World",
+      "imgurl":"https://images.dog.ceo/breeds/sheepdog-english/n02105641_4577.jpg",
+      "detailInfo":"A sheep dog is generally a dog or breed of dogs historically used in connection with the raising of sheep. These may include livestock guardian used to guard sheep and other livestock in farms for farmers or herding dogs used to herd sheep and other livestock."
+    },
+    {
+      "breed": "Shiba",
+      "origin": "Japan",
+      "imgurl": "https://images.dog.ceo/breeds/shiba/shiba-1.jpg",
+      "detailInfo":"The Shiba Inu is a Japanese breed of hunting dog. A small-to-medium breed, it is the smallest of the six original and distinct spitz breeds of dog native to Japan."
+    },
+    {
+      "breed": "Shih Tzu",
+      "origin": "China",
+      "imgurl":"https://images.dog.ceo/breeds/shihtzu/n02086240_4625.jpg",
+      "detailInfo":"The Shih Tzu is a toy dog breed developed in Tibet."
+    },
+    {
+      "breed": "Spaniel",
+      "origin": "United Kingdom, Japan",
+      "imgurl":"https://images.dog.ceo/breeds/spaniel-japanese/n02085782_2886.jpg",
+      "detailInfo":"A spaniel is a type of gun dog. Spaniels were especially bred to flush game out of denser brush. By the late 17th century, spaniels had been specialized into water and land breeds."
+    },
+    {
+      "breed": "Springer",
+      "origin": "United Kingdom",
+      "imgurl":"https://images.dog.ceo/breeds/springer-english/n02102040_1276.jpg",
+      "detailInfo":"The English Springer Spaniel is a breed of gun dog in the Spaniel family traditionally used for flushing and retrieving game. It is an affectionate, excitable breed with a typical lifespan of twelve to fourteen years."
+    },
+    {
+      "breed": "Stbernard",
+      "origin": "Italy, Switzerland",
+      "imgurl":"https://images.dog.ceo/breeds/stbernard/n02109525_11747.jpg",
+      "detailInfo":"The St. Bernard or St Bernard is a breed of very large working dog from the western Alps in Italy and Switzerland. They were originally bred for rescue work by the hospice of the Great St Bernard Pass on the Italian-Swiss border."
+    },
+    {
+      "breed": "Terrier",
+      "origin": "United Kingdom",
+      "imgurl":"https://images.dog.ceo/breeds/terrier-lakeland/n02095570_2230.jpg",
+      "detailInfo":"Terrier is a type of dog originally bred to hunt vermin. A terrier is a dog of any one of many breeds or landraces of the terrier type, which are typically small, wiry, game, and fearless."
+    },
+    {
+      "breed": "Vizsla",
+      "origin": "Hungary",
+      "imgurl":"https://images.dog.ceo/breeds/vizsla/n02100583_9960.jpg",
+      "detailInfo":"The Vizsla is a dog breed from Hungary and belongs to the Federation Cynologique Internationale (FCI) group 7 (Pointing Dogs), the Canadian Kennel Club (CKC) group 1 (Sporting group), and the American Kennel Club (Sporting group). Its name means \"searcher\" or \"tracker\" in Hungarian."
+    },
+    {
+      "breed": "Waterdog",
+      "origin": "Europe, North America",
+      "imgurl":"https://images.dog.ceo/breeds/waterdog-spanish/20180706_194432.jpg",
+      "detailInfo":"A water dog is a type of gundog bred to flush and retrieve game from water. Water dogs are considered the progenitors of most modern retriever dog breeds."
+    },
+    {
+      "breed": "Weimaraner",
+      "origin": "Germany",
+      "imgurl":"https://images.dog.ceo/breeds/weimaraner/n02092339_437.jpg",
+      "detailInfo":"The Weimaraner is a large dog that was originally bred for hunting in the early 19th century. Early Weimaraners were used by royalty for hunting large game such as boar, bear and deer."
+    },
+    {
+      "breed": "Whippet",
+      "origin": "United Kingdom",
+      "imgurl":"https://images.dog.ceo/breeds/whippet/n02091134_19084.jpg",
+      "detailInfo":"The Whippet is a dog breed of medium size. They are a sighthound breed that originated in England, where they descended from Greyhounds. "
+    },
+    {
+      "breed": "Wolfhound",
+      "origin": "Ireland",
+      "imgurl":"https://images.dog.ceo/breeds/wolfhound-irish/n02090721_3940.jpg",
+      "detailInfo":"The Irish Wolfhound is a historic sighthound dog breed from Ireland that has, by its presence and substantial size, inspired literature, poetry and mythology."
+    }
+  ],
+  "status": "Success, welcome to Doglist!"
+}

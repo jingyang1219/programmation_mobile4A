@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Dog knowledge</string>
+    <string name="connectez_vous">Please log in to your account</string>
+    <string name="login">Login</string>
+    <string name="entrez_votre_login">Enter your login</string>
+    <string name="password">Password</string>
+    <string name="entrez_votre_password">Enter your password</string>
+    <string name="se_connecter">Log in</string>
+    <string name="s_inscrire">Register</string>
+    <string name="bienvenue_sur_la_page_d_inscription">Welcome to the registration page</string>
+    <string name="login_register">New login</string>
+    <string name="entrez_votre_password_page">Enter your new password (6 characters min)</string>
+    <string name="new_password">New password</string>
+    <string name="valider">Submit</string>
+</resources>
