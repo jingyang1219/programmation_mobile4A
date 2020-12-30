@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Doglover</string>
+    <string name="connectez_vous">Please log in</string>
+    <string name="login">Account</string>
+    <string name="entrez_votre_login">account</string>
+    <string name="password">Password</string>
+    <string name="entrez_votre_password">password</string>
+    <string name="se_connecter">Sign in</string>
+    <string name="s_inscrire">Sign up</string>
+    <string name="bienvenue_sur_la_page_d_inscription">Enter your information</string>
+    <string name="login_register">Sign up!</string>
+    <string name="entrez_votre_password_page">Enter your new password (6 characters min)</string>
+    <string name="new_password">New password</string>
+    <string name="valider">Submit</string>
+    <string name="start">TODO</string>
+</resources>
